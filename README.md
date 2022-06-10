@@ -15,11 +15,11 @@ Although "affordable", and Boston Dynamics generally don't belong in the same se
 
 As impressive as all the Boston Dynamics robots are, I personally only payed attention to a few milestones. Cheetah was the first concept that really caught my eye. The press at that time was claiming it could move faster than [Usain Bolt](https://web.archive.org/web/20120906124029/https://www.darpa.mil/NewsEvents/Releases/2012/09/05.aspx). 
 
-![Cheetah](https://www.wired.com/images_blogs/dangerroom/2011/02/cheetah.jpg)
+[![Cheetah](https://www.wired.com/images_blogs/dangerroom/2011/02/cheetah.jpg)](https://www.youtube.com/watch?v=chPanW0QWhA)
 
 Similarly Cheetah's cousin WildCat from Boston Dynamics brought new found speeds to unleashed, outdoor quadrupeds.
 
-[![WildCat](http://img.youtube.com/vi/wE3fmFTtP9g/0.jpg)](https://www.youtube.com/watch?v=wE3fmFTtP9g)
+[![WildCat](http://img.youtube.com/vi/wE3fmFTtP9g/0.jpg)](https://www.youtube.com/watch?v=chPanW0QWhA)
 
 
 DARPA helped both the Boston Dynamics, and MIT quadruped "Cheetah" programs gain legs metaphorically speaking. The [Maximum Mobility and Manipulation (M3)](https://www.darpa.mil/program/maximum-mobility-and-manipulation) and [Machine Common Sense (MCS) programs](https://www.darpa.mil/program/machine-common-sense) directly funded both efforts.
