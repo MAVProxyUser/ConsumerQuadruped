@@ -97,7 +97,7 @@ To come full circle on the subjective "affordable" dogs, meet [MJbots quad](http
 
 ["The mjbots quad is a small dynamic quadruped, like the MIT mini-Cheetah, but fully open source licensed under the Apache 2.0 license."](https://hackaday.com/2019/10/03/amazing-open-source-quadruped-capable-of-dynamic-motion/)
 
-[![](http://img.youtube.com/vi/aKOEN38e3hM/0.jpg)](https://www.youtube.com/watch?v=aKOEN38e3hM)
+[![](http://img.youtube.com/vi/ePdGshbKR-Q/0.jpg)](https://www.youtube.com/watch?v=ePdGshbKR-Q)
 
 So which pooch did I get? Well I couldn't decide, so I got two! I'll probably buy a third soon. Oh, and a robotic arm! The first two I'm importing are the [Xiaomi Cyberdog](https://xiaomi-mi.com/appliances/yi-home-camera-3/), and the [Unitree Go1](https://www.unitree.com/products/go1/). 
 
