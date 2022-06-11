@@ -111,7 +111,7 @@ The third pooch I seek to obtain is the [DeepRobotics Jueying Lite2](https://www
 
 [![](http://img.youtube.com/vi/dkmR0hJyIrg/0.jpg)](https://www.youtube.com/watch?v=dkmR0hJyIrg)
 
-Ghost Robotics [Vision 60](https://www.ghostrobotics.io/vision-60), and Boston [Spot](https://www.bostondynamics.com/products/spot) being the next logical chocies for many situations. 
+Ghost Robotics [Vision 60](https://www.ghostrobotics.io/vision-60), and Boston [Spot](https://www.bostondynamics.com/products/spot) being the next logical choices for many situations. 
 
 [![](http://img.youtube.com/vi/hDSXD_cB_Hc/0.jpg)](https://www.youtube.com/watch?v=hDSXD_cB_Hc)
 
