@@ -1,8 +1,27 @@
-So you want to get a robot dog!? I did too, so I stopped talking about it, and made it happen.
+* [So you want to get a robot dog!?](#so-you-want-to-get-a-robot-dog)
+* [But why?](#but-why)
+* [Boston Dynamics](#boston-dynamics)
+* [DARPA](#darpa)
+* [MIT Cheetah](#mit-cheetah)
+   * [Cheetah 1](#cheetah-1)
+   * [Cheetah 2](#cheetah-2)
+   * [Cheetah 3](#cheetah-3)
+   * [Mini Cheetah](#mini-cheetah)
+* [Cheetah's from China](#cheetahs-from-china)
+* [Other open source dogs and cats](#other-open-source-dogs-and-cats)
+* [My current, and future purchases](#my-current-and-future-purchases)
+* [Post purchase wrap up](#post-purchase-wrap-up)
+   * [Xiaomi CyberDog cost](#xiaomi-cyberdog-cost)
+   * [Cyberdog notes](#cyberdog-notes)
+   * [Unitree Go1](#unitree-go1)
+   * [Go1 notes](#go1-notes)
+
+# So you want to get a robot dog!? 
+I did too, so I stopped talking about it, and made it happen.
 [![WildCat](http://img.youtube.com/vi/--8nr2kt4uk/0.jpg)](https://www.youtube.com/watch?v=--8nr2kt4uk)
 
 
-But why? 
+# But why? 
 [Ask Hackaday: What good is a robot dog?](https://hackaday.com/2019/09/25/ask-hackaday-what-good-is-a-robot-dog/#more-377998)
 
 
@@ -11,6 +30,7 @@ I remember seeing [Big Dog](https://www.bostondynamics.com/legacy), "The first l
 
 [![BigDOg](http://img.youtube.com/vi/xqMVg5ixhd0/0.jpg)](https://www.youtube.com/watch?v=xqMVg5ixhd0) 
 
+# Boston Dynamics 
 Although "affordable", and Boston Dynamics generally don't belong in the same sentence, Boston Dynamics has of course been a very critical part of bringing these quadruped technology advances to light the entire time. [Evolution of Boston Dynamic’s Robots(1992-2022)](https://www.youtube.com/watch?v=Rdm2ggtFvmQ).
 
 As impressive as all the Boston Dynamics robots are, I personally only payed attention to a few milestones. Cheetah was the first concept that really caught my eye. The press at that time was claiming it could move faster than [Usain Bolt](https://web.archive.org/web/20120906124029/https://www.darpa.mil/NewsEvents/Releases/2012/09/05.aspx). 
@@ -22,21 +42,23 @@ Similarly Cheetah's cousin WildCat from Boston Dynamics brought new found speeds
 [![WildCat](http://img.youtube.com/vi/wE3fmFTtP9g/0.jpg)](https://www.youtube.com/watch?v=chPanW0QWhA)
 
 
+# DARPA 
 DARPA helped both the Boston Dynamics, and MIT quadruped "Cheetah" programs gain legs metaphorically speaking. The [Maximum Mobility and Manipulation (M3)](https://www.darpa.mil/program/maximum-mobility-and-manipulation) and [Machine Common Sense (MCS) programs](https://www.darpa.mil/program/machine-common-sense) directly funded both efforts.
  
 
 ![DARPA](https://www.darpa.mil/DDM_Gallery/darpa-logo-300-cornerstone.jpg)
 
+# MIT Cheetah
 In a paper titled "[Design principles for highly efficient quadrupeds and implementation on the MIT Cheetah robot](https://ieeexplore.ieee.org/document/6631038)" the design features for MIT Cheetah hardware were "presented", "as an embodiment" of the principles within the paper itself. At that time the MIT Cheetah was ["the second fastest legged robot in the world"](https://spectrum.ieee.org/mit-cheetah-robot-running), of course, second to Boston Dynamics Cheetah.
 
 Early versions of MIT Cheetah were still well with in the class I would consider inaccessable, and were very much academic. 
 
-Cheetah 1
+## Cheetah 1
 
 [![First Run](http://img.youtube.com/vi/kKva13Y0RT0/0.jpg)](https://www.youtube.com/watch?v=kKva13Y0RT0)
 
 
-Cheetah 2
+## Cheetah 2
 
 [![MIT Cheetah 2 Compilation](http://img.youtube.com/vi/5XiNiaCuABo/0.jpg)](https://www.youtube.com/watch?v=5XiNiaCuABo)
 
@@ -45,7 +67,7 @@ Cheetah 2
 
 From this snapshot in time forward however, things started becoming more "accessible"!
 
-Cheetan 3 
+## Cheetah 3 
 
 "[research was supported, in part, by Naver, Toyota Research Institute, Foxconn, and Air Force Office of Scientific Research](https://news.mit.edu/2018/blind-cheetah-robot-climb-stairs-obstacles-disaster-zones-0705)"
 
@@ -55,7 +77,7 @@ Cheetan 3
 
 "[MIT Cheetah 3: Design and Control of a Robust, Dynamic Quadruped Robot](https://ieeexplore.ieee.org/abstract/document/8593885)"
 
-Mini Cheetah
+## Mini Cheetah
 
 [![](http://img.youtube.com/vi/xNeZWP5Mx9s/0.jpg)](https://www.youtube.com/watch?v=xNeZWP5Mx9s)
 
@@ -68,7 +90,7 @@ Mini Cheetah
 
 [![](http://img.youtube.com/vi/G6fMV1UPzkg/0.jpg)](https://www.youtube.com/watch?v=G6fMV1UPzkg)
 
-
+# Cheetah's from China
 Once the dogs were open sourced... [China latched on](https://hackaday.com/2019/10/19/mit-mini-cheetah-made-and-improved-in-china/
 ), instantly bringing options to Alibaba.
  
@@ -91,6 +113,7 @@ Ben Katz was of course pivitol in the open source efforts. His Hobbyking Cheetah
 
 ![](https://media-exp2.licdn.com/dms/image/C4E22AQHqqLWE97Ul0g/feedshare-shrink_1280/0/1640620903964?e=1657756800&v=beta&t=c8EAYIIuF-kW3g2ytUhOOq6YIsj35glxUXE7LezXG9s)
 
+# Other open source dogs and cats
 At some point the nomenclature bounced back and forth between dogs, and big cats.. they seem to be fairly interchangable, however "dog" seems to be taking precedence. 
 
 To come full circle on the subjective "affordable" dogs, meet [MJbots quad](https://hackaday.io/project/167845-mjbots-quad): An open-source, affordable, dynamic quadruped robot 
@@ -99,6 +122,7 @@ To come full circle on the subjective "affordable" dogs, meet [MJbots quad](http
 
 [![](http://img.youtube.com/vi/ePdGshbKR-Q/0.jpg)](https://www.youtube.com/watch?v=ePdGshbKR-Q)
 
+# My current, and future purchases
 So which pooch did I get? Well I couldn't decide, so I got two! I'll probably buy a third soon. Oh, and a robotic arm! The first two I'm importing are the [Xiaomi Cyberdog](https://xiaomi-mi.com/appliances/yi-home-camera-3/), and the [Unitree Go1](https://www.unitree.com/products/go1/). 
 
 [![](http://img.youtube.com/vi/X_uAqYVK6xY/0.jpg)](https://www.youtube.com/watch?v=X_uAqYVK6xY)
@@ -120,4 +144,22 @@ Ghost Robotics [Vision 60](https://www.ghostrobotics.io/vision-60), and Boston [
 Sorry [Aibo](https://us.aibo.com)! You are still a toy pup, after all these years. 
 
 [![](http://img.youtube.com/vi/5ifwGc-0mAY/0.jpg)](https://www.youtube.com/watch?v=5ifwGc-0mAY)
+
+# Post purchase wrap up
+
+## Xiaomi CyberDog cost
+FedEx Total Duties, Tax, Customs, Other Fees - $1379.81
+Alibaba Wire Transfer - $5912.50 (single transaction, subject to more customs scrutiny)
+
+## Cyberdog notes
+https://github.com/MAVProxyUser/XiaomiCyberDog-k91
+
+## Unitree Go1
+DHL Import Duty total - $405.13 
+Alibaba Wire Transfer x 2, total $8805
+- Payment 1 - $4000
+- Payment 2 - $4805
+
+## Go1 notes
+https://github.com/MAVProxyUser/YushuTechUnitreeGo1
 
