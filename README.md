@@ -13,7 +13,7 @@
 * [Post purchase wrap up](#post-purchase-wrap-up)
    * [Xiaomi CyberDog cost](#xiaomi-cyberdog-cost)
    * [Cyberdog notes](#cyberdog-notes)
-   * [Unitree Go1](#unitree-go1)
+   * [Unitree Go1 cost](#unitree-go1-cost)
    * [Go1 notes](#go1-notes)
 
 # So you want to get a robot dog!? 
@@ -154,7 +154,7 @@ Alibaba Wire Transfer - $5912.50 (single transaction, subject to more customs sc
 ## Cyberdog notes
 https://github.com/MAVProxyUser/XiaomiCyberDog-k91
 
-## Unitree Go1
+## Unitree Go1 cost
 DHL Import Duty total - $405.13 
 Alibaba Wire Transfer x 2, total $8805
 - Payment 1 - $4000
