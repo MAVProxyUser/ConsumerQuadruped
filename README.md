@@ -148,18 +148,20 @@ Sorry [Aibo](https://us.aibo.com)! You are still a toy pup, after all these year
 # Post purchase wrap up
 
 ## Xiaomi CyberDog cost
-FedEx Total Duties, Tax, Customs, Other Fees - $1379.81
-Alibaba Wire Transfer - $5912.50 (single transaction, subject to more customs scrutiny)
+FedEx Total Duties, Tax, Customs, Other Fees - $1379.81<br>
+Alibaba Wire Transfer - $5912.50 (single transaction, subject to more customs scrutiny)<br>
+Total: $7292.31
 
 ## Cyberdog notes
-https://github.com/MAVProxyUser/XiaomiCyberDog-k91
+https://github.com/MAVProxyUser/XiaomiCyberDog-k91<br>
 
 ## Unitree Go1 cost
-DHL Import Duty total - $405.13 
-Alibaba Wire Transfer x 2, total $8805
-- Payment 1 - $4000
-- Payment 2 - $4805
+DHL Import Duty total - $405.13<br>
+Alibaba Wire Transfer x 2, total $8805<br>
+- Payment 1 - $4000<br>
+- Payment 2 - $4805<br>
+Total: $9210.13
 
 ## Go1 notes
-https://github.com/MAVProxyUser/YushuTechUnitreeGo1
+https://github.com/MAVProxyUser/YushuTechUnitreeGo1<br>
 
