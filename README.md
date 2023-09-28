@@ -1,5 +1,5 @@
 Looking for Quadruped friends? Join "The Dog Pound animal control for Stray robot dogs" slack group: <br>
-https://join.slack.com/t/robotdogs/shared_invite/zt-1fvixx89u-7T79~VxmDYdFSIoTnSagFQ<br>
+https://join.slack.com/t/robotdogs/shared_invite/zt-24ep8mqn4-1p42Aq7owRv9klLI~3C5Pw<br>
 
 * [So you want to get a robot dog!?](#so-you-want-to-get-a-robot-dog)
 * [But why?](#but-why)
